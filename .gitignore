@@ -1,0 +1,28 @@
+# Node.js (Backend)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+*.log
+.DS_Store
+/dist
+/build
+
+# Frontend (React)
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# OS-specific files (macOS, Windows)
+*.swp
